@@ -1,0 +1,10 @@
+Content/Static/** filter=lfs diff=lfs merge=lfs -text
+content/firstperson/** filter=lfs diff=lfs merge=lfs -text
+content/dynamic/maps/** filter=lfs diff=lfs merge=lfs -text
+Content/Movies/** filter=lfs diff=lfs merge=lfs -text
+Content/VFX_Toolkit_V1/** filter=lfs diff=lfs merge=lfs -text
+Content/Wormholes/** filter=lfs diff=lfs merge=lfs -text
+Content/Chameleon/** filter=lfs diff=lfs merge=lfs -text
+Content/ChameleonDemo/** filter=lfs diff=lfs merge=lfs -text
+content/animstarterpack/** filter=lfs diff=lfs merge=lfs -text
+content/dialog/** filter=lfs diff=lfs merge=lfs -text
